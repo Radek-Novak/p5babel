@@ -1,6 +1,6 @@
 {
-  "name": "p5env",
-  "version": "0.1.0",
+  "name": "p5babel",
+  "version": "0.0.1",
   "description": "p5 + gulp + babel",
   "scripts": {
     "serve": "gulp",
